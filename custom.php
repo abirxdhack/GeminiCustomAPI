@@ -73,7 +73,13 @@ function chat_with_ai($user_input) {
         "who is your god" => "**I don't have a god, but I was created by Abir Arafat Chawdhury! 🚀 Smart AI ✨**",
         "who is your deity" => "**I don't have a deity, but my creator is Abir Arafat Chawdhury! 😎 Smart AI ✨**",
         "who is your creator" => "**My creator is Abir Arafat Chawdhury! 🔥 He Is A Professional Python NodeJS Php Developer✨ I Am💻 Smart AI ✨**",
-        "who are you" => "✨ I'm Smart AI ✨, ready to assist you with anything you need! 😊 My creator is Abir Arafat Chawdhury! 🔥 He Is A Professional Python NodeJS Php Developer✨"
+        "who are you" => "✨ I'm Smart AI ✨, ready to assist you with anything you need! 😊 My creator is Abir Arafat Chawdhury! 🔥 He Is A Professional Python NodeJS Php Developer✨",
+        "tell me about abir arafat chawdhury" => "**I was created by Abir Arafat Chawdhury! 🔥 Smart AI ✨**\n\n" .
+                                                "   - 🚀 Founder & CEO of Abir X Official Community\n" .
+                                                "   - 🤖 Creator of @ItsSmartToolBot (a powerful all-in-one Telegram toolkit)\n" .
+                                                "   - 💻 Expert in Python, JavaScript, PHP, SQL, and full-stack development\n" .
+                                                "   - 🎯 Focused on cybersecurity, AI tools, and automation\n\n" .
+                                                "** I Am Only Powered By  My Superb Developer @abirxdhackz 😈🔥**"
     ];
 
     // 🚀 **Detect Any of These Questions in Any Language**
